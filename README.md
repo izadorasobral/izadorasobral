@@ -7,14 +7,7 @@ I transform data, automation, and observability into **strategic financial decis
 
 ---
 
-## ☁️ Cloud  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)  
-![OCI](https://img.shields.io/badge/OCI-FF4F00?style=for-the-badge&logo=oracle&logoColor=white)  
-
----
-
-## 💸 FinOps  
+## FinOps  
 ![FinOps](https://img.shields.io/badge/FinOps-Practitioner-008080?style=for-the-badge)
 
 
@@ -40,13 +33,20 @@ I transform data, automation, and observability into **strategic financial decis
 
 ---
 
-## 📈 Monitoring & Observability  
+##  Cloud  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![OCI](https://img.shields.io/badge/OCI-FF4F00?style=for-the-badge&logo=oracle&logoColor=white)  
+
+---
+
+## Monitoring & Observability  
 ![Prometheus](https://img.shields.io/badge/Prometheus-EB7B00?style=for-the-badge&logo=prometheus&logoColor=white)  
 ![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=white)  
 
 ---
 
-## 📊 Data Analysis & Visualization  
+## Data Analysis & Visualization  
 ![Power BI](https://img.shields.io/badge/Power%20BI-FFB800?style=for-the-badge&logo=powerbi&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
@@ -55,7 +55,7 @@ I transform data, automation, and observability into **strategic financial decis
 
 ---
 
-## 🔁 Programming  
+## Programming  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
@@ -66,14 +66,14 @@ I transform data, automation, and observability into **strategic financial decis
 
 ---
 
-## 🚀 Versioning & Containers  
+## Versioning & Containers  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 ---
 
-## 🔄 Automation & CI/CD  
+## Automation & CI/CD  
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
@@ -81,18 +81,18 @@ I transform data, automation, and observability into **strategic financial decis
 
 ---
 
-## 🧪 API Testing  
+## API Testing  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 ---
 
-## 🛠️ Infrastructure & Operating Systems  
+## Infrastructure & Operating Systems  
 ![Linux](https://img.shields.io/badge/Linux-4EAA25?style=for-the-badge&logo=linux&logoColor=white)  
 ![Windows](https://img.shields.io/badge/Windows-00A4EF?style=for-the-badge&logo=windows&logoColor=white)  
 
 ---
 
-## 📋 Management & Agile Methodologies  
+## Management & Agile Methodologies  
 ![Kanban](https://img.shields.io/badge/Kanban-0077B6?style=for-the-badge&logo=kanban&logoColor=white)  
 ![Scrum](https://img.shields.io/badge/Scrum-FF4500?style=for-the-badge&logo=scrum&logoColor=white)  
 ![ITIL](https://img.shields.io/badge/ITIL-6A0DAD?style=for-the-badge&logo=itil&logoColor=white)  
@@ -101,11 +101,11 @@ I transform data, automation, and observability into **strategic financial decis
 
 ---
 
-## 🎓 Education & Certifications  
-🌐 **FinOps Certified Practitioner** (FinOps Foundation / Linux Foundation)  
-☁️ **AWS Cloud Practitioner Certified**  
-🧠 **Oracle Cloud Infrastructure Foundations**  
-🎓 **Bachelor’s Degree in Data Science (in progress)**  
+## Education & Certifications  
+**FinOps Certified Practitioner** (FinOps Foundation / Linux Foundation)  
+**AWS Cloud Practitioner Certified**  
+**Oracle Cloud Infrastructure Foundations**  
+**Bachelor’s Degree in Data Science (in progress)**  
 
 ---
 
@@ -114,6 +114,5 @@ I transform data, automation, and observability into **strategic financial decis
 
 ---
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-remote%20%2F%20EU%20based-green?style=flat-square)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izadorasobral&layout=compact&theme=dark)  
