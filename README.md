@@ -1,72 +1,119 @@
-# 🌟 My Tools and Skills
+# ✨ FinOps & Cloud  
+Cloud Cost Management · Monitoring · Power BI · Automation
+
+Hello! I'm passionate about **FinOps, Cloud, and Data Analysis**.  
+I believe FinOps is not just about cutting costs—it's about investing wisely.  
+I transform data, automation, and observability into **strategic financial decisions**.  
 
 ---
 
-## ☁ Cloud Computing:
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) : Glue, EC2, S3, RDS, DynamoDB, VPC, Lambda, IAM, EBS, Route 53, Elastic Beanstalk, CloudFormation, Systems Manager, CloudTrail  
-- ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) : Azure Functions, Security Center, Microsoft Entra ID (Azure AD), Microsoft Defender for Identity  
-- ![Cloud](https://img.shields.io/badge/Cloud-FFA500?style=for-the-badge&logo=cloud&logoColor=white) : IaaS, PaaS, SaaS, Cloud Automation, FinOps  
+## ☁️ Cloud  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![OCI](https://img.shields.io/badge/OCI-FF4F00?style=for-the-badge&logo=oracle&logoColor=white)  
 
 ---
 
-## 💻 Software Development / DevOps:
-- ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) (CI/CD)
-- ![IaC](https://img.shields.io/badge/IaC-623CE4?style=for-the-badge&logo=iac&logoColor=white) 
-- ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) (Automated Testing)
-- ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)  (Dependency Management)
-- ![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-- ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-- ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white) 
-- ![EJS](https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=ejs&logoColor=white) 
-- ![Security](https://img.shields.io/badge/Security-00599C?style=for-the-badge&logo=security&logoColor=white) (Password Hashing)
-- ![GitHub Actions Workflows](https://img.shields.io/badge/GitHub_Actions_Workflows-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
----
+## 💸 FinOps  
+![FinOps](https://img.shields.io/badge/FinOps-Practitioner-008080?style=for-the-badge)
 
-## 📦 Containers and Orchestration:
-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
----
+### **Cloud Financial Management**  
+- Planning, budgeting, and **multi-cloud cost control**  
+- Forecasting and **cost variation analysis**  
+- Strategies using **Saving Plans, Reserved Instances, and Spot Instances**  
+- Definition and **tracking of technical and financial KPIs**  
+- **Power BI and SQL dashboards** to monitor consumption and efficiency  
 
-## 📊 Programming Languages and Data (basic):
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-- ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-- ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)  
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)  
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+### **Automation & Governance**  
+- **Automated tagging** for resource traceability  
+- **Budget and usage alerts** via scripts and native tools  
+- **FinOps data pipelines** and integration with **IaC**  
+- **Estimated environmental impact analysis (carbon footprint)**  
+- **ESG practices** applied to sustainable and efficient cloud usage  
+
+### **Operational Efficiency & FinOps Culture**  
+- **Periodic reviews** of waste and **cost-saving opportunities**  
+- **CI/CD integration** to align FinOps with engineering workflows  
+- **Best practices, standardization, and FinOps advocacy** within organizations  
+- **Alignment meetings** with technical and business stakeholders  
 
 ---
 
-## 📝 Code Versioning:
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-- ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)  
+## 📈 Monitoring & Observability  
+![Prometheus](https://img.shields.io/badge/Prometheus-EB7B00?style=for-the-badge&logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=white)  
 
 ---
 
-## ⚙️ System Administration:
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-
-
----
-
-## 🚀 Agile Methodologies:
-- ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)  
-- ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=kanban&logoColor=white)  
+## 📊 Data Analysis & Visualization  
+![Power BI](https://img.shields.io/badge/Power%20BI-FFB800?style=for-the-badge&logo=powerbi&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 
 ---
 
-## 🛠️ Tools and Platforms:
-- ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  
+## 🔁 Programming  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)  
+![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white)  
 
 ---
 
-## 🌐 Connect with me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izadora-sobral/)  
+## 🚀 Versioning & Containers  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 ---
 
-## ✨ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izadorasobral&show_icons=true&theme=dark)     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izadorasobral&layout=compact&theme=dark)  
+## 🔄 Automation & CI/CD  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+
+---
+
+## 🧪 API Testing  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+
+---
+
+## 🛠️ Infrastructure & Operating Systems  
+![Linux](https://img.shields.io/badge/Linux-4EAA25?style=for-the-badge&logo=linux&logoColor=white)  
+![Windows](https://img.shields.io/badge/Windows-00A4EF?style=for-the-badge&logo=windows&logoColor=white)  
+
+---
+
+## 📋 Management & Agile Methodologies  
+![Kanban](https://img.shields.io/badge/Kanban-0077B6?style=for-the-badge&logo=kanban&logoColor=white)  
+![Scrum](https://img.shields.io/badge/Scrum-FF4500?style=for-the-badge&logo=scrum&logoColor=white)  
+![ITIL](https://img.shields.io/badge/ITIL-6A0DAD?style=for-the-badge&logo=itil&logoColor=white)  
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white)  
+
+---
+
+## 🎓 Education & Certifications  
+🌐 **FinOps Certified Practitioner** (FinOps Foundation / Linux Foundation)  
+☁️ **AWS Cloud Practitioner Certified**  
+🧠 **Oracle Cloud Infrastructure Foundations**  
+🎓 **Bachelor’s Degree in Data Science (in progress)**  
+
+---
+
+## 🌐 Where to find me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izadora-sobral/)  
+
+---
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-remote%20%2F%20EU%20based-green?style=flat-square)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izadorasobral&layout=compact&theme=dark)  
