@@ -11,7 +11,7 @@ I believe FinOps is not just about cutting costs, it’s about making **smarter 
 ##  Areas of Expertise  
 - **FinOps & Cloud Financial Management**: cost control, forecasting, KPIs, savings strategies  
 - **Data & Visualization**: Power BI, SQL, Pandas  
-- **Automation & Governance**: tagging, alerts, IaC, FinOps pipelines  
+- **Automation & Governance**: tagging, alerts, IaC, FinOps data pipelines  
 - **Cloud & Multicloud**: AWS | Azure | OCI  
 - **Monitoring & Observability**: Prometheus, Grafana  
 - **Programming & CI/CD**: Python, Node.js, Docker, Kubernetes 
